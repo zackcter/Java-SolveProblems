@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Part1\ of\ the\ Finding\ a\ Gene\ in\ DNA\ module\ of\ Java\ Programming\:\r\n\ Solving\ Problems\ with\ Software\ through\ Coursera\r\n\ \r\n\ @author\ Zachary\ Carter\r\n\ @version\ 20191217\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=input
+comment2.target=void\ _testHelper(java.lang.String)
+comment3.params=
+comment3.target=void\ testSimpleGene()
+numComments=4

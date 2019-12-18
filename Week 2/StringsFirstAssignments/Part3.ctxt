@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Part3\ of\ the\ Finding\ a\ Gene\ in\ DNA\ module\ of\ Java\ Programming\:\r\n\ Solving\ Problems\ with\ Software\ through\ Coursera\r\n\ \r\n\ @author\ Zachary\ Carter\r\n\ @version\ 20191217\r\n
+comment1.params=stringa\ stringb
+comment1.target=boolean\ twoOccurances(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testing()
+numComments=3
